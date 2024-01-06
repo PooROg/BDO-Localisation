@@ -3,7 +3,7 @@
 
 Program for localization of Black Desert Online into different languages.
 
-Download the latest [release](https://github.com/PooROg/BDO-Localisation/releases).
+Download the latest version of the program from the [release](https://github.com/PooROg/BDO-Localisation/releases), move it to the root folder of the game and run it.
 
 Building:
 ```
